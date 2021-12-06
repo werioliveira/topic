@@ -1,6 +1,7 @@
-**PROJECT RUNNING ON PHP 7.4-apache
-PHPMYADMIN 5.1.1
-MYSQL 8.0.27 - MySQL Community Server - GPL**
+**PROJECT RUNNING ON PHP 7.4-apache<br>
+PHPMYADMIN 5.1.1<br>
+MYSQL 8.0.27 - MySQL Community Server - GPL<br>**
+
 
 for work nice need php 5+, password using function password_hash, that included after version 5 from php
 
