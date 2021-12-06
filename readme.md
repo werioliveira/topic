@@ -1,34 +1,34 @@
-PROJECT RUNNING ON PHP 7.4-apache
+**PROJECT RUNNING ON PHP 7.4-apache
 PHPMYADMIN 5.1.1
-MYSQL 8.0.27 - MySQL Community Server - GPL
+MYSQL 8.0.27 - MySQL Community Server - GPL**
 
 for work nice need php 5+, password using function password_hash, that included after version 5 from php
 
 need put directoryes like examples, do like u php service need
 
----|htdocs
-----|backend
-----|design
+---|htdocs<br>
+----|backend<br>
+----|design<br>
 
-
----|www
-----|backend
-----|design
-
----|html
-----|backend
-----|design
-
+<br>
+---|www<br>
+----|backend<br>
+----|design<br>
+<br>
+---|html<br>
+----|backend<br>
+----|design<br>
+<br>
 ROUTES IS LIKE ABOVE(USE IF CAN'T ACCESS ON LINKS)
 
 
-backend/index.php
-backend/login.php
-backend/logout.php
-backend/register.php
-backend/manager_permission.php
-backend/permission_module.php
-backend/manager_post.php
+backend/index.php<br>
+backend/login.php<br>
+backend/logout.php<br>
+backend/register.php<br>
+backend/manager_permission.php<br>
+backend/permission_module.php<br>
+backend/manager_post.php<br>
 
 
 
